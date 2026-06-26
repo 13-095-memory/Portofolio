@@ -139,7 +139,7 @@ a {
   gap: 48px;
   max-width: 1200px;
   margin: 0 auto;
-  padding: 60px 48px 100px;
+  padding: 60px 48px 48px;
 }
 
 .hero-text {
@@ -236,7 +236,7 @@ a {
 .about {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 40px 48px 100px;
+  padding: 40px 48px 48px;
 }
 
 .about-card {
@@ -308,7 +308,7 @@ a {
 .skills {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 40px 48px 100px;
+  padding: 40px 48px 48px;
   text-align: center;
 }
 
@@ -348,7 +348,7 @@ a {
 .projects {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 40px 48px 100px;
+  padding: 40px 48px 48px;
   text-align: center;
 }
 
@@ -431,7 +431,7 @@ a {
 .contact {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 40px 48px 100px;
+  padding: 40px 48px 48px;
 }
 
 .contact-card {
